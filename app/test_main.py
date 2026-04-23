@@ -6,7 +6,7 @@ from app.main import check_password
     "password, expected_action",
     [
         ("Str@ng1", False),
-        ("qwerty", False),
+        ("Qwerty@aser", False),
         ("Cucaracha", False),
         ("b@mbino1", False),
         ("Pipi1@pupuchecking", False),
